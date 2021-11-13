@@ -1,5 +1,5 @@
 
-@font-face { font-family: 'Comfortaa', cursive; src: url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap'); } 
+@font-face { font-family: 'Comfortaa'; src: url('Comfortaa.tff'); } 
 
 html,body {
 	background: url(Website/Backgrounds/bg.jpg)  no-repeat center center fixed;
