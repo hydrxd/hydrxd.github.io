@@ -1,0 +1,94 @@
+
+@font-face { font-family: Comfortaa; src: url('Comfortaa.ttf'); } 
+
+html,body {
+	background: url(Website/Backgrounds/bg.jpg)  no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 110%;
+	overflow: hidden;
+}
+
+
+.boxed {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    max-width: 50%;
+    padding: 20px 50px;
+    background-color: rgba(16,16,16,0.875);
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+  }
+  
+  
+
+
+
+.Hydrid {
+  text-align: center;
+  font-family: "Comfortaa";
+  font-size: 52px;
+  color: white;
+  padding: 0px;
+  margin: 0px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+
+.Sentence { 
+  color: white;
+  font-family: "Comfortaa";
+  font-size: 14px;
+  margin: 0px;
+  padding: 0px;
+  margin-left: 0px;
+  margin-bottom: 10px;
+
+}
+
+.Discord { 
+    padding-left: 10px;
+}
+
+.Twitch {
+    padding-left: 40px;
+}
+
+.Twitter {
+    padding-left: 40px;
+}
+
+.Github {
+    padding-left: 40px;
+	margin-bottom: 4px;
+}
+
+.MAL {
+    padding-left: 40px;
+	margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+}
+
+li {
+    
+     float: left;
+     display: inline;
+     padding-top: 10px;
+    
+}
